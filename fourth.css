@@ -1,0 +1,66 @@
+
+h1 {
+    color: #336699; /* Hexadecimal color for h1 */
+    background-color: #ffffcc; 
+div {
+    color: #993366; 
+    background-color: #ffccff; }
+
+p {
+    color: #669933; 
+    background-color: #ccffff; }
+
+
+h1 {
+    color: #336699;     background-color: #ffffcc; }
+
+div {
+    color: #993366;    background-color: #ffccff; }
+
+p {
+    color: #669933;     background-color: #ccffff; 
+h1 {
+    color: rgb(51, 102, 153); /* RGB color for h1 */
+    background-color: rgb(255, 255, 204);
+}
+
+div {
+    color: rgb(153, 51, 102);    background-color: rgb(255, 204, 255); }
+
+p {
+    color: rgb(102, 153, 51);     
+    background-color: rgb(204, 255, 255); 
+}
+
+h1 {
+    color: hsl(210, 50%, 50%); /* HSL color for h1 */
+    background-color: hsl(60, 100%, 90%); 
+}
+
+div {
+    color: hsl(330, 50%, 50%); 
+    background-color: hsl(300, 100%, 90%);
+}
+
+p {
+    color: hsl(90, 50%, 50%); 
+    background-color: hsl(180, 100%, 90%); 
+}
+
+h1 {
+    color: hsla(210, 50%, 50%, 0.8); 
+    background-color: hsla(60, 100%, 90%, 0.5); 
+}
+
+div {
+    color: hsla(330, 50%, 50%, 0.8); 
+    background-color: hsla(300, 100%, 90%, 0.5); 
+p {
+    color: hsla(90, 50%, 50%, 0.8); 
+    background-color: hsla(180, 100%, 90%, 0.5);
+}
+
+
+img {
+    border: 2px solid #ccc; }
+
